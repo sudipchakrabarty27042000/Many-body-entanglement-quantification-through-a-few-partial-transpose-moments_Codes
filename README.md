@@ -1,0 +1,2 @@
+# Many-body-entanglement-quantification-through-a-few-partial-transpose-moments_Codes
+Code and data for “Many-body entanglement quantification in arbitrary states through a few partial-transpose moments”. Optimal lower bounds on the logarithmic negativity from partial-transpose moments via Gauss quadrature, certified bounds from odd moments, and many-body examples (Ising, XXZ, LMG, DMRG). Reproduces every result.
